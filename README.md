@@ -1,5 +1,6 @@
 # jscolor
 
+js选色器
 jscolor is a web color picker component that aims to be super easy both for developers to install and for the end users to use.
 
 
